@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Testtt
-=======
-as
->>>>>>> refs/remotes/origin/master
